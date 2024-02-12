@@ -1,0 +1,99 @@
+/* key = > ATBBGMTpfQdhrzuLtu7MYpT5YJSFAEF84CB3 */
+
+#user_profile_img {
+	padding: 10px;
+}
+
+.user_login_password {
+	color: #000 !important;
+}
+
+.user_login_email {
+	color: #000 !important;
+}
+
+.left-right-angles,
+.heart_icon,
+.nevi_icon {
+	position: relative;
+	display: flex !important;
+	justify-content: center !important;
+	align-items: center !important;
+	top: 6px;
+}
+
+.in-stock {
+	color: #71a403 !important;
+	text-decoration: none !important;
+}
+
+.cart-btn,
+.btn-round {
+	border: #fff !important;
+}
+
+.related_products {
+	height: 390px;
+	width: 200px;
+}
+
+.swal2-styled {
+	height: 30px;
+}
+
+.cancel_btn {
+	background-color: #cc0000 !important;
+}
+
+.swal-buyNowBtn {
+	background-color: #cc0000 !important;
+	color: #fff !important;
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 50px;
+	border: none;
+}
+
+.swal-okBtn {
+	background-color: #0088cc;;
+	margin-left: 5px;
+	color: #fff !important;
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 50px;
+	border: none;
+}
+
+.purchase_cancelledBtn {
+	background-color: #605d5d !important;
+	padding: 5px 10px !important;
+	float: right;
+}
+
+.purchase_cancelledBtn:hover {
+	background-color: #605d5d !important;
+	cursor: auto;
+}
+
+.swal2-confirm{
+	background-color: #0088cc!important;
+}
+
+.swal2-styled {
+	margin-left: 5px;
+	color: #fff !important;
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 50px !important;
+	border: none;
+}
+
+.swal2-cancel {
+	background-color: #cc0000 !important;
+}

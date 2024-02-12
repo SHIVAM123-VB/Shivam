@@ -1,0 +1,13 @@
+grand total addtext =>  done
+
+cancel product fix it => done
+
+search qury also add category wise
+
+check the search query and all model query try to handle it.
+
+handle all queries and fuctions whose will not be breakable remember it check all functionns and things properly .  
+
+proper code to check it properly no loop hols will apear
+
+fix all swel buttons => done
